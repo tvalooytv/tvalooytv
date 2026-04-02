@@ -4,7 +4,7 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 تابع الحساب الرسمي لمنصة « Alooy Tv »
 - **Telegram**: [kirmzitv](https://t.me/kirmzitv)
 - **X (Twitter)**: [@kirmzitv](https://x.com/kirmzitv)
 - **Instagram**: [kirmzitv](https://www.instagram.com/kirmzitv/)
