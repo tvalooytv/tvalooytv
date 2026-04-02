@@ -31,7 +31,7 @@
 - 💬 **Plurk** → [kirmzitv](https://www.plurk.com/kirmzitv)  
 - 🌀 **Tumblr** → [kirmzitv1](https://www.tumblr.com/blog/kirmzitv1)  - 
 
-### 🌐 تواصل معنا (Connect with us)
+### 🌐 الصفحات الرسمية (Connect with us)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kirmzitv1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirmzitv)
