@@ -74,7 +74,6 @@
 ### 🌐 الصفحات الرسمية (Connect with us)
 
 
-
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ser.q-ask.video/ramadan-series/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kirmzitv1)
@@ -118,7 +117,6 @@
 [![BuzzFeed](https://img.shields.io/badge/BuzzFeed-EE3322?style=for-the-badge&logo=buzzfeed&logoColor=white)](https://www.buzzfeed.com/kirmzitv)
 
 [![Blogspot](https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kirmzitv.blogspot.com/)
-
 
 
 ---
