@@ -2,9 +2,9 @@
 
 منصة ترفيه رقمية شاملة تجمع الأفلام والمسلسلات والقنوات المباشرة في تجربة مشاهدة واحدة. استمتع بمكتبة ضخمة من المحتوى المتجدد، جودة عرض عالية.
 
----
+---                                                   ### 📫 تابع الحساب الرسمي لمنصة « Alooy Tv »
 
-### 📫 تابع الحساب الرسمي لمنصة « Alooy Tv »
+
 - **Telegram**: [kirmzitv](https://t.me/kirmzitv)
 - **X (Twitter)**: [@kirmzitv](https://x.com/kirmzitv)
 - **Instagram**: [kirmzitv](https://www.instagram.com/kirmzitv/)
