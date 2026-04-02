@@ -3,9 +3,13 @@
 منصة ترفيه رقمية شاملة تجمع الأفلام والمسلسلات والقنوات المباشرة في تجربة مشاهدة واحدة. استمتع بمكتبة ضخمة من المحتوى المتجدد، جودة عرض عالية.
 
  
+تمام، ضفت الموقع كأول رابط وبشكل واضح 👇
+
+```markdown id="p4x9sd"
 ## 🌐 تابع الحساب الرسمي لمنصة «Alooy TV»
 
-- 🌍 **الموقع**: [Alooy TV](https://ser.q-ask.video/ramadan-series/)
+- 🌍 **Official Website** → [Alooy TV](https://ser.q-ask.video/ramadan-series/)  
+
 - 📱 **Telegram** → [kirmzitv](https://t.me/kirmzitv)  
 - 🐦 **X (Twitter)** → [@kirmzitv](https://x.com/kirmzitv)  
 - 📸 **Instagram** → [kirmzitv](https://www.instagram.com/kirmzitv/)  
@@ -29,7 +33,8 @@
 - 📰 **BuzzFeed** → [kirmzitv](https://www.buzzfeed.com/kirmzitv)  
 - 💻 **GitHub** → [kirmzitv](https://github.com/kirmzitv)  
 - 💬 **Plurk** → [kirmzitv](https://www.plurk.com/kirmzitv)  
-- 🌀 **Tumblr** → [kirmzitv1](https://www.tumblr.com/blog/kirmzitv1)  - 
+- 🌀 **Tumblr** → [kirmzitv1](https://www.tumblr.com/blog/kirmzitv1)  
+```
 
 ### 🌐 الصفحات الرسمية (Connect with us)
 
