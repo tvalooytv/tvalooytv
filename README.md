@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1500x500.png" width="100%" alt="Alooy TV Banner">
+  <img src="https://pbs.twimg.com/profile_banners/2023553914340057088/1771289026/1500x500" width="100%" alt="Alooy TV Banner">
 </p>
 
 # ⚡ Alooy Tv | علوي تي في
