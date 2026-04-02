@@ -5,7 +5,7 @@
  
 ## 🌐 تابع الحساب الرسمي لمنصة «Alooy TV»
 
-- 🌍 **Official Website** → [Alooy TV](https://ser.q-ask.video/ramadan-series/)  
+- 🌍 **الموقع** → [Alooy TV](https://ser.q-ask.video/ramadan-series/)  
 
 - 📱 **Telegram** → [kirmzitv](https://t.me/kirmzitv)  
 - 🐦 **X (Twitter)** → [@kirmzitv](https://x.com/kirmzitv)  
