@@ -3,9 +3,10 @@
 منصة ترفيه رقمية شاملة تجمع الأفلام والمسلسلات والقنوات المباشرة في تجربة مشاهدة واحدة. استمتع بمكتبة ضخمة من المحتوى المتجدد، جودة عرض عالية.
 
 <p align="center">
-  <img src="./1500x500.png" alt="Alooy TV" width="100%">
+  <a href="https://ser.q-ask.video/ramadan-series/">
+    <img src="./https://pbs.twimg.com/profile_banners/2023553914340057088/1771289026/1500x500" alt="Alooy TV" width="100%">
+  </a>
 </p>
-
  
 ## 🌐 تابع الحساب الرسمي لمنصة «Alooy TV»
 
