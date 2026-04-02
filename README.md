@@ -8,6 +8,15 @@
 
 ---
 
+### 📺 أقسام المنصة (Platform Sections)
+
+* 📽️ **[المسلسلات التركية المترجمة](https://ser.q-ask.video/series/)** - أحدث المسلسلات بجودة عالية.
+* 🎬 **[الأفلام التركية المترجمة](https://ser.q-ask.video/movies/)** - مكتبة أفلام متنوعة.
+* 🌟 **[جميع المسلسلات العربية](https://ser.q-ask.video/ramadan-series/)** - تغطية شاملة للمسلسلات العربية والرمضانية.
+* 🔥 **[أحدث الحلقات والأفلام](https://ser.q-ask.video/latest/)** - تابع كل جديد أولاً بأول.
+
+---
+
 ### 🌐 تابع الحساب الرسمي لمنصة «Alooy TV»
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ser.q-ask.video/ramadan-series/)
